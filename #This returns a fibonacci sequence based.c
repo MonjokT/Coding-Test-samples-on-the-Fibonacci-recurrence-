@@ -1,6 +1,6 @@
 #This returns a fibonacci sequence based on the following arithemetic operations
 #using Dynamic programming
-
+#By : Monjok Joseph Terem 
 #include<stdio.h>
 #include<stdlib.h>
 
